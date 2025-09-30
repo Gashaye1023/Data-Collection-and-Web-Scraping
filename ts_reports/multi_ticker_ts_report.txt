@@ -1,0 +1,17 @@
+
+Dataset Shape: (2577, 9)
+- Plots: ts_plots/decomposition_TSLA.png for each ticker.
+- Plots: ts_plots/smoothing_TSLA.png for each ticker.
+- RMSE Summary:
+Ticker       RMSE
+  AAPL  39.126130
+  AMZN  58.443180
+   BND   4.739933
+  GOOG  40.958183
+  META 274.597612
+  MSFT 104.483818
+  NVDA  76.046680
+   SPY 126.303136
+  TSLA  76.132382
+- Plots: ts_plots/arima_forecast_TSLA.png for each ticker.
+
