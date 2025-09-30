@@ -1,0 +1,5 @@
+Model,Best Parameters
+Logistic Regression,"{'C': 10, 'max_iter': 1000, 'solver': 'lbfgs'}"
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 50}"
+SVM,"{'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}"
+SVM,"{'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}"
